@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.private/
+wechat-reports/
+outputs/
+research/
+*.db
+*.db-*
+*.sqlite*
+*.sock
+.env
+.env.*

@@ -1,0 +1,6 @@
+interface:
+  display_name: "微信群记录总结"
+  short_description: "读取本机微信群记录，由当前会话总结并生成离线网页、PNG长图和来源数据"
+  default_prompt: "使用 $wechat-group-report 读取我指定微信群最近24小时的本地记录，并生成中文总结、PNG长图和离线网页版报告。"
+policy:
+  allow_implicit_invocation: true
